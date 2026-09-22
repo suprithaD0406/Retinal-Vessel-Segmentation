@@ -5,8 +5,8 @@ Deep learning-based retinal blood vessel segmentation using **U-Net** and **Atte
 ## Features
 
 - Retinal image preprocessing
-- U-Net based vessel segmentation
-- Attention U-Net based vessel segmentation
+- U-Net-based vessel segmentation
+- Attention U-Net-based vessel segmentation
 - Model evaluation
 - Prediction on new retinal images
 - Dataset analysis and visualization
@@ -26,7 +26,7 @@ Deep learning-based retinal blood vessel segmentation using **U-Net** and **Atte
 
 Retinal Vessel Segmentation Datasets Collection.
 
-The dataset contains retinal fundus images and corresponding vessel segmentation masks from multiple datasets including:
+The dataset contains retinal fundus images and corresponding vessel segmentation masks from multiple datasets, including:
 
 - FIVES
 - DRIVE
@@ -41,10 +41,8 @@ The dataset is not included in this repository because of its size.
 ```text
 Retinal-Vessel-Segmentation/
 │
-├── backend/
 ├── eda/
 ├── evaluation/
-├── inference/
 ├── prediction/
 ├── preprocessing/
 ├── train/
