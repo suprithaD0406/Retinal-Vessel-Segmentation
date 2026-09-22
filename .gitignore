@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+
+# Models
+models/
+saved_models/
+
+# Generated outputs
+outputs/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+
+# Virtual environments
+.venv/
